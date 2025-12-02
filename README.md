@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Josias Félix 👋</h1>
 
 <p align="center">
-  Software Engineer focused on Flutter, Laravel, Node.js, and actually expanding to Python for AI/ML.
+  Software Engineer specialized in Flutter, Laravel and Node.js.  
+  Currently expanding skills in <strong>Python (AI/ML)</strong> and <strong>React Native</strong> for mobile development.
 </p>
 
 ---
@@ -11,66 +12,93 @@
 ### **Languages**
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### **Frameworks & Tools**
+---
+
+### **Frameworks & Libraries**
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Materialize_CSS-EE6E73?style=for-the-badge&logo=materialdesign&logoColor=white"/>
 </p>
 
-### **Databases & Cloud**
+---
+
+### **Databases & ORM**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQFlite-1C1C1C?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### **DevOps & Utilities**
+---
+
+### **Tools & DevOps**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+### **Design & Productivity**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
 
 ## 📌 About Me
-- 4+ years of experience building apps and systems  
-- Strong background in **Flutter**, **Laravel/PHP**, **Node.js**  
-- Currently improving **Python for AI/ML**
-- Interested in backend, frontend, mobile, and automation  
-- Open to **remote international roles**
+- 4+ years building apps, APIs, and systems  
+- Specialized in **Flutter**, **Laravel**, **Node.js**  
+- Currently focusing on:
+  - **React Native** (mobile apps)
+  - **Python** (AI, ML, data automation)
+- Experience with front-end, back-end, mobile, automation and prototyping  
+- Open to **international remote positions**
 
 ---
 
 ## 🧩 Highlight Projects
 
-### **📱 reapproveita_app**
-An app built with Flutter that creates an e-commerce site for products nearing their expiration date, offering a 50% discount.
-🔗 [Add repo link here](https://github.com/FJosias1997/reapproveita_app)
+### **📱 reapproveita_app**  
+A Flutter app for selling products near expiration date with automated discount features.  
+🔗 https://github.com/FJosias1997/reapproveita_app  
 
-### **🤖 reapproveita_api**
-Official API of the reapproveita_app, made with Python - FastAPI 
-🔗 [Add repo link here](https://github.com/FJosias1997/reapproveita_api)
+### **🤖 reapproveita_api**  
+FastAPI backend for the Reapproveita mobile app with authentication, product handling and discount logic.  
+🔗 https://github.com/FJosias1997/reapproveita_api  
 
-### **🌐 openmarket_app**
-A Simple Flutter Project of an e-commerce, using JSON and BLoC pattern as a State Manager.
-🔗 [Add repo link here](https://github.com/FJosias1997/open_market_app)
+### **🛒 openmarket_app**  
+A simple and clean Flutter project using JSON + BLoC architecture for state management.  
+🔗 https://github.com/FJosias1997/open_market_app  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FJosias1997&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FJosias1997&layout=compact&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FJosias1997&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FJosias1997&layout=compact&theme=tokyonight" />
 </p>
 
 ---
