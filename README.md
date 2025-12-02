@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Josias Félix 👋</h1>
 
 <p align="center">
-  Software Engineer specialized in Flutter, Laravel and Node.js.  
+  Software Engineer, Fullstack Developer specialized in Flutter, Laravel and Node.js.  
   Currently expanding skills in <strong>Python (AI/ML)</strong> and <strong>React Native</strong> for mobile development.
 </p>
 
@@ -97,8 +97,8 @@ A simple and clean Flutter project using JSON + BLoC architecture for state mana
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FJosias1997&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FJosias1997&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=FJosias1997&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=FJosias1997&layout=compact&theme=tokyonight" />
 </p>
 
 ---
