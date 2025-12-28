@@ -96,10 +96,30 @@ A simple and clean Flutter project using JSON + BLoC architecture for state mana
 
 ## 📊 GitHub Stats
 
- <p align="center">
+ <!-- <p align="center">
   <img height="160" src="https://felix-repo.vercel.app/api?username=FJosias1997&show_icons=true&theme=tokyonight&v=123" />
   <img height="160" src="https://felix-repo.vercel.app/api/top-langs/?username=FJosias1997&layout=compact&theme=tokyonight&v=123" />
-</p> 
+</p> -->
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://felix-repo.vercel.app/api?username=FJosias1997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+      </td>
+      <td>
+        <img height="180em" src="https://felix-repo.vercel.app/api/top-langs/?username=FJosias1997&layout=compact&theme=tokyonight&hide_border=false&langs_count=5&border_radius=10&hide=html,css" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</div>
 
 ---
 
