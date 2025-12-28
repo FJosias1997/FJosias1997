@@ -97,8 +97,8 @@ A simple and clean Flutter project using JSON + BLoC architecture for state mana
 ## 📊 GitHub Stats
 
  <p align="center">
-  <img height="160" src="https://felix-repo.vercel.app/api?username=FJosias1997&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://felix-repo.vercel.app/api/top-langs/?username=FJosias1997&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://felix-repo.vercel.app/api?username=FJosias1997&show_icons=true&theme=tokyonight&v=123" />
+  <img height="160" src="https://felix-repo.vercel.app/api/top-langs/?username=FJosias1997&layout=compact&theme=tokyonight&v=123" />
 </p> 
 
 ---
